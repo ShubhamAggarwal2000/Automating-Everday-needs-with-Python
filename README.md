@@ -6,6 +6,5 @@ Bot for joining classes <br />
 
 
 
-![alt text](image1.jpg)<br />
+![alt text](image1.jpg)
 ![alt text](image3.jpg)<br />
-![alt text](image2.jpg)<br />
